@@ -229,16 +229,16 @@ Designing interactive reporting dashboards
 📁 Project Structure
 Larry-Jay-Supermarket-Sales-Analysis/
 │
-├── README.md
+├── Larry jay Supermarket sales and profit analysis.xlsx with Sales data
 │
-├── data/
-│   └── Sales_data.xlsx
+├
+│   
+│ ── Larry jay supermarket dashboard/ image
+├
+│   
 │
-├── dashboard/
-│   └── Larry_Jay_Sales_Profit_Dashboard.xlsx
-│
-└── images/
-    └── larry-jay-dashboard.png
+└── README.md
+
 📚 Dataset
 Dataset: Sales data
 
