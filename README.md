@@ -227,6 +227,7 @@ Transforming raw data into business insights
 Identifying performance gaps
 Translating analytical findings into recommendations
 Designing interactive reporting dashboards
+
 📁 Project Structure
 Larry-Jay-Supermarket-Sales-Analysis/
 │
