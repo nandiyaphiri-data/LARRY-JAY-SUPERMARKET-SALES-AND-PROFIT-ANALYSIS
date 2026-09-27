@@ -1,4 +1,5 @@
 📊 Larry Jay Supermarket Sales & Profit Analysis
+
 📌 Project Overview
 This project is an independent Sales and Profitability Analysis completed using Microsoft Excel and the Larry Jay Supermarket Sales dataset.
 
@@ -33,10 +34,10 @@ Slicers and interactive filtering
 Trend analysis
 Profitability analysis
 
-📊 Key Performance Indicators
-KPI
 
-Result
+📊 Key Performance Indicators
+
+KPI Results
 
 Total Sales
 
