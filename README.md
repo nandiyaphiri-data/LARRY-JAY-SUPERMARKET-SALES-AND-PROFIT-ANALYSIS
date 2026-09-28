@@ -1,6 +1,7 @@
 📊 Larry Jay Supermarket Sales & Profit Analysis
 
 📌 Project Overview
+
 This project is an independent Sales and Profitability Analysis completed using Microsoft Excel and the Larry Jay Supermarket Sales dataset.
 
 The objective was to transform raw transactional data into an interactive dashboard that provides insights into sales performance, profitability, customer segments, products, countries, discount strategies, and sales trends over time.
@@ -8,6 +9,7 @@ The objective was to transform raw transactional data into an interactive dashbo
 The project demonstrates how Excel can be used to transform raw business data into meaningful insights that can support data-driven decision-making.
 
 🎯 Business Objectives
+
 The analysis was designed to answer key business questions such as:
 
 How are overall sales and profits performing?
@@ -52,6 +54,7 @@ These KPIs provide a high-level view of the company’s overall sales generation
 The results show that the business generated substantial sales and positive overall profit, while the detailed analysis revealed differences in profitability across customer segments, products, countries and discount levels.
 
 🔎 Key Insights
+
 1. Government Segment Generated the Strongest Overall Performance
 The Government customer segment generated the highest sales and profit among the analysed customer segments.
 
@@ -118,31 +121,38 @@ Business implication:
 The business could investigate the factors behind the July peak and use historical patterns to support inventory planning, promotional activities, staffing and sales forecasting.
 
 📈 Interactive Dashboard
+
 The Excel dashboard was designed to allow users to interactively explore sales and profitability performance.
 
 Interactive Features
+
 The dashboard includes slicers for:
 
 Year
 Quarter
 Month
+
 These allow users to filter the analysis and explore performance across different time periods.
 
 The dashboard also incorporates:
 
 KPI cards
+
 Interactive charts
 Pivot-based analysis
 Customised visualisations
 Consistent colour theme
 Structured dashboard layout
 Business-focused performance indicators
+
 The objective was to create a reporting interface that is both visually clear and analytically useful.
 
 🧹 Data Preparation & Analysis Process
+
 The project followed a structured analytical workflow.
 
 1. Data Preparation
+
 The raw dataset was reviewed and prepared for analysis.
 
 Key activities included:
@@ -152,7 +162,9 @@ Checking data consistency
 Cleaning data where required
 Validating fields
 Preparing the data for analysis
+
 2. Data Analysis
+
 Pivot Tables and Excel formulas were used to analyse:
 
 Sales
@@ -162,40 +174,53 @@ Products
 Countries
 Discount levels
 Time-based performance
+
 3. KPI Development
+
 Key performance indicators were calculated and incorporated into the dashboard to provide an immediate overview of business performance.
 
 4. Data Visualisation
+
 Charts and visual elements were developed to make patterns, trends and differences easier to identify.
 
 5. Dashboard Development
+
 The analysis was consolidated into an interactive Excel dashboard using slicers, KPI cards and visualisations.
 
 6. Business Interpretation
+
 The final stage involved translating analytical findings into business insights and potential areas for management attention.
 
 💡 Business Recommendations
+
 Based on the analysis, the following areas could be considered:
 
 1. Maintain Government Segment Performance
+
 Continue monitoring the Government segment because of its contribution to both sales and profit.
 
 2. Investigate Enterprise Losses
+
 Conduct a deeper profitability review of Enterprise customers to identify whether pricing, discounting, costs or product mix are contributing to the losses.
 
 3. Review Discount Strategies
+
 Evaluate discount levels by customer segment and product to identify opportunities to improve profitability without unnecessarily reducing sales volume.
 
 4. Analyse Paseo’s Success
+
 Investigate the factors contributing to Paseo’s strong performance and assess whether similar strategies could support other products.
 
 5. Analyse Geographic Performance
+
 Explore why Japan, France and England are performing strongly and whether similar market characteristics exist in lower-performing countries.
 
 6. Incorporate Seasonal Trends
+
 Use the recurring July sales peak as a starting point for further investigation into seasonal demand and planning.
 
 📌 Key Takeaway
+
 The analysis demonstrates that strong sales performance does not necessarily translate into equally strong profitability across every area of a business.
 
 The company generated total sales of 118,726,349 and total profit of 16,893,699.
@@ -207,6 +232,7 @@ The Government segment and Paseo product were identified as important contributo
 The analysis therefore highlights the importance of looking beyond total revenue and examining profitability, customer segments, product performance, discount strategies and trends over time when making business decisions.
 
 🚀 Skills Demonstrated
+
 This project demonstrates practical experience in:
 
 Data Analytics
@@ -229,6 +255,7 @@ Translating analytical findings into recommendations
 Designing interactive reporting dashboards
 
 📁 Project Structure
+
 Larry-Jay-Supermarket-Sales-Analysis/
 │
 ├── Larry jay Supermarket sales and profit analysis.xlsx with Sales data
@@ -242,6 +269,7 @@ Larry-Jay-Supermarket-Sales-Analysis/
 └── README.md
 
 📚 Dataset
+
 Dataset: Sales data
 
 The dataset contains sales-related information used to analyse customer segments, products, countries, discounts, sales, profit and time-based performance.
@@ -249,6 +277,7 @@ The dataset contains sales-related information used to analyse customer segments
 This project is intended for portfolio and learning purposes and demonstrates the application of Excel-based data analytics to a business scenario.
 
 👩🏽‍💻 Author
+
 Nandiya Phiri
 
 Economics | Data Analytics | Business Intelligence | Finance
